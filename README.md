@@ -1,6 +1,6 @@
 # Kalman Filtering Accelerometer Data
 
-At one point when I was working for [_Hailo_](https://www.hailoapp.com), I got to write a [_Kalman filter_](http://en.wikipedia.org/wiki/Kalman_filter). This is the document upon which the implementation was based. In the end, though, we didn't have to use it for what we were trying to do. Originally written on March 18, 2013.
+At one point when I was working for [Hailo](https://www.hailoapp.com), I got to write a [_Kalman filter_](http://en.wikipedia.org/wiki/Kalman_filter). This is the document upon which the implementation was based. In the end, though, we didn't have to use it for what we were trying to do. Originally written on March 18, 2013.
 
 ## Creator
 
